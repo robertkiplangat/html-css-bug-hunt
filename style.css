@@ -12,7 +12,7 @@ nav ul {
 }
 
 nav li {
-    display inline-block;  /* ERROR: Missing colon */
+    display: inline-block;
     margin-right: 15px;
 }
 
