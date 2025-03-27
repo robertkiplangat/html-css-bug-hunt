@@ -19,7 +19,7 @@ nav li {
 nav a {
     text-decoration: none;
     color: blue;
-    font-weight bold;  /* ERROR: Missing colon */
+    font-weight: bold;
 }
 
 .btn {
